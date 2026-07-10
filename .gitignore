@@ -1,0 +1,12 @@
+/.idea/
+/.vscode/*.log
+/bin/
+/coverage/
+/dist/
+*.exe
+*.test
+*.out
+.env
+.env.*
+vulnerability.md
+

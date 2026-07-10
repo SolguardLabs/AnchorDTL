@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "go.testFlags": ["-count=1"],
+  "go.toolsManagement.autoUpdate": true,
+  "files.exclude": {
+    "**/bin": true,
+    "**/coverage": true,
+    "**/dist": true
+  }
+}
+

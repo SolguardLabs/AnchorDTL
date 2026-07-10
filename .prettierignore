@@ -1,0 +1,7 @@
+bin/
+coverage/
+dist/
+*.exe
+*.test
+go.sum
+
